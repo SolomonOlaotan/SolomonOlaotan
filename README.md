@@ -1,6 +1,28 @@
-- 👋 Hi, I’m @SolomonOlaotan. I use the space to showcase my projects and skill-set in various programming languages. Feel free to look them up and collaborate.
+<h1>Hi, I'm Solomon </h1>
+<h4>I used this space to showcase my projects and skill-set in coding and popular technologies</h4>
 
-<!---
-SolomonOlaotan/SolomonOlaotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Data Analyst / Engineering Projects:</h2>
+
+- <b>Power  BI Projects</b>
+  
+- <b>SQL Projects</b>
+  
+- <b>Excel Projects</b>
+ 
+- <b>Python</b>
+
+<h2> Certifications</h2>
+
+
+<h2>📺 YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
