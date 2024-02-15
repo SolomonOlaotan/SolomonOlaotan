@@ -1,7 +1,7 @@
 <h1>Hi, I'm Solomon </h1>
 <h4>I used this space to showcase my projects and skill-set in coding and popular technologies</h4>
 
-<h2>👨‍💻 Data Analyst / Engineering Projects:</h2>
+<h2>👨‍💻 Data Analysis, Power BI Dashboard, and Data Engineering Projects:</h2>
 
 - <b>Power  BI Projects<br/>
 -[HR Attrition Analysis](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
