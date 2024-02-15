@@ -3,7 +3,10 @@
 
 <h2>👨‍💻 Data Analyst / Engineering Projects:</h2>
 
-- <b>Power  BI Projects</b>
+- <b>Power  BI Projects<br/>
+-[HR Attrition Analysis](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
+- </b>
+
   
 - <b>SQL Projects</b>
   
