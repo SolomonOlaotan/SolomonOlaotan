@@ -15,6 +15,8 @@
 - <b>Python</b>
 
 <h2> Certifications</h2>
+Microsoft Certified<br/> 
+-[Azure Data Fundamental](https://www.credly.com/badges/645043d6-6b40-48e8-ba31-981ecbbadf52/public_url)
 
 
 <h2>📺 YouTube Videos</h2>
