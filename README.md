@@ -12,7 +12,9 @@
   
 - <b>Excel Projects</b>
  
-- <b>Python</b>
+- <b>Python Projects</b>
+-[Determining Atrition Factor with Python](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
+- <br/>
 
 <h2> Certifications</h2>
 Microsoft Certified<br/> 
