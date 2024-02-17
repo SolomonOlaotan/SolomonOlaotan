@@ -12,8 +12,8 @@
   
 - <b>Excel Projects</b>
  
-- <b>Python Projects</b>
--[Determining Atrition Factor with Python](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
+- <b>Python Projects<br/>
+-[Determining Atrition Factor with Python](https://github.com/SolomonOlaotan/Utiva-Data-Science-Project)
 - <br/>
 
 <h2> Certifications</h2>
