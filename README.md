@@ -8,9 +8,9 @@
 - </b>
 
   
-- <b>SQL Projects</b>
--[End to End Data Pipeline Porject](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
-  
+- <b>SQL Projects<br/>
+-[End to End Data Pipeline Project](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
+- <b/>
 - <b>Excel Projects</b>
  
 - <b>Python Projects<br/>
