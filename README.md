@@ -9,7 +9,7 @@
 
   
 - <b>SQL Projects<br/>
--[End to End Data Pipeline Project](https://github.com/SolomonOlaotan/Power-BI-Dashboard/tree/main)
+-[End to End Data Pipeline Project](https://github.com/SolomonOlaotan/End-to-End-Data-ELT-Pipeline)
 - <b/>
 - <b>Excel Projects</b>
  
